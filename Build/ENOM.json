@@ -1,0 +1,13 @@
+{
+"companyName": "Leejiwon",
+"productName": "ENom",
+"dataUrl": "ENOM.data.unityweb",
+"asmCodeUrl": "ENOM.asm.code.unityweb",
+"asmMemoryUrl": "ENOM.asm.memory.unityweb",
+"asmFrameworkUrl": "ENOM.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
